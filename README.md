@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @little-ev-b
 - 👀 I’m interested in computer vision and machine learning. I'm hoping in the future to build up my python and CSS skills. 
-- 🌱 I’m currently learning computer vision and ML (^teaching myself how to use this)
+- 🌱 I’m currently learning computer vision and ML.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love art and vinyl
 
